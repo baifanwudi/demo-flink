@@ -20,7 +20,7 @@
         <fastjson.version>1.2.69</fastjson.version>
         <elasticsearch.version>6.3.2</elasticsearch.version>
         <guava.version>25.1-jre</guava.version>
-        <hadoop.version>2.8.2</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
         <turbomq.version>4.0.3</turbomq.version>
     </properties>
 
